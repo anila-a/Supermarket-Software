@@ -1,0 +1,26 @@
+* * * * * * * * * * * * * * * * * * * *
+
+Administrator data:
+Username: admin
+Password: admin
+
+* * * * * * * * * * * * * * * * * * * *
+
+Economist data:
+Name Surname: James Coleman
+Username: economist1
+Password: e123
+
+* * * * * * * * * * * * * * * * * * * *
+
+Cashier 1 data:
+Name Surname: Evelyn Diaz
+Username: cashier1
+Password: c123
+
+* * * * * * * * * * * * * * * * * * * *
+
+Cashier 2 data:
+Name Surname: Lori Ward
+Username: cashier2
+Password: c123
