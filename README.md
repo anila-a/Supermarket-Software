@@ -2,6 +2,6 @@
 
 Object oriented software in Java. The main focus of this software is to manage all important steps of a supermarket business.
 
-<b>Note:</b> This project is incomplete.
+<b>Status:</b> incomplete
 
 January 2020
